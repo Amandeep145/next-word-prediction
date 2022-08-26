@@ -4,7 +4,6 @@ plotly
 nltk
 pandas 
 numpy
-pickle
 Pillow
 scipy
 toml
